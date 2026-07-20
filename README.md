@@ -19,12 +19,17 @@ The dataset contains medical insurance information including:
 - Region
 - Insurance charges
 
+## Dataset Source
+Medical Cost Personal Dataset from Kaggle.
+
 ## Tools & Technologies
 - Python
-- Pandas
-- Data Visualization
 - Google Colab
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
 - GitHub
-
+  
 ## Project Status
-Currently in the exploratory data analysis phase.
+Completed exploratory data analysis and identified key factors associated with medical insurance charges.
