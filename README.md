@@ -23,7 +23,7 @@ The dataset contains medical insurance information including:
 - Python
 - Pandas
 - Data Visualization
-- Google Colab Notebook
+- Google Colab
 - GitHub
 
 ## Project Status
